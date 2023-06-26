@@ -7,3 +7,5 @@ seaborn
 statsmodels
 pytorch
 requests
+tqdm
+torchinfo
