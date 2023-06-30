@@ -2,11 +2,12 @@ jupyterlab
 matplotlib
 numpy
 pandas
-torch
 requests
 scikit-learn
 scipy
 seaborn
 statsmodels
+torch
 torchinfo
+torchvision
 tqdm
