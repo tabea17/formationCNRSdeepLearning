@@ -27,7 +27,7 @@ Les paquets Python nécessaires à la formation sont listés dans le fichier `re
 
 > pip install -r requirements.txt
 
-Les travaux pratiques se feront sur des notebook Python. Pour vérifier que les dépendances ont été correctement installées, lancer un `jupyterlab` depuis le répertoire TPs en tapant la commande
+Les travaux pratiques se feront sur des notebook Python. Pour vérifier que les dépendances ont été correctement installées, lancer un `jupyterlab` depuis le répertoire `TPs` en tapant la commande
 
 > jupyter lab
 
