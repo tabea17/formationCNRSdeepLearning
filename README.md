@@ -8,7 +8,16 @@ Cette [formation](https://cnrsformation.cnrs.fr/introduction-machine-learning-de
 - Daphné Giorgi
 - Vincent Lemaire 
 
-Les cours se dérouleront de 9h30 à 17h30 du mercredi 19 au vendredi 21 juin 2024, avec une session théorique le matin et des travaux pratiques l'après midi. 	
+Les cours se dérouleront de 9h00 à 17h30 du mercredi 19 au vendredi 21 juin 2024, avec une session théorique le matin et des travaux pratiques l'après midi, au 4, place Jussieu, salle 113 couloir 16-26.
+
+
+| Horaire     | Sujet             | Salle     |
+|---------    |-------            |-------    |
+| 9:00-12:00  | Théorie           | 16-26 113 |
+| 12:00-13:30 | Pause déjeuner    | 16-26 113 |
+| 13:30-17:30 | Travaux Pratiques | 16-26 113 |
+
+
 
 ## Prérequis
 
