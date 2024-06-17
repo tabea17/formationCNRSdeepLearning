@@ -8,7 +8,11 @@ Cette [formation](https://cnrsformation.cnrs.fr/introduction-machine-learning-de
 - Daphné Giorgi
 - Vincent Lemaire 
 
-Les cours se dérouleront de 9h00 à 17h30 du mercredi 19 au vendredi 21 juin 2024, au 4, place Jussieu, salle 113 couloir 16-26, avec une session théorique le matin et des travaux pratiques l'après midi.
+Les cours se dérouleront 
+
+- de **9h00 à 17h30** du mercredi 19 au vendredi 21 juin 2024
+- en **salle 113, couloir 16-26**, au 4, place Jussieu, 75005
+- avec une session théorique le matin et des travaux pratiques l'après midi.
 
 
 | Horaire     | Sujet             | Salle     |
@@ -17,7 +21,12 @@ Les cours se dérouleront de 9h00 à 17h30 du mercredi 19 au vendredi 21 juin 20
 | 12:00-13:30 | Pause déjeuner    | --------- |
 | 13:30-17:30 | Travaux Pratiques | 16-26 113 |
 
-
+Les objectifs de la formation sont
+- Comprendre les concepts mathématiques des méthodes de l'apprentissage statistique supervisé (régression et classification)
+- Connaître les principaux algorithmes du deep learning
+- Savoir utiliser les librairies Python pour la mise en œuvre des méthodes de machine learning et de deep learning
+- Savoir choisir les algorithmes adaptés aux cas d'usages
+- Savoir interpréter les résultats des algorithmes et identifier leurs limites
 
 ## Prérequis
 
