@@ -8,13 +8,13 @@ Cette [formation](https://cnrsformation.cnrs.fr/introduction-machine-learning-de
 - Daphné Giorgi
 - Vincent Lemaire 
 
-Les cours se dérouleront de 9h00 à 17h30 du mercredi 19 au vendredi 21 juin 2024, avec une session théorique le matin et des travaux pratiques l'après midi, au 4, place Jussieu, salle 113 couloir 16-26.
+Les cours se dérouleront de 9h00 à 17h30 du mercredi 19 au vendredi 21 juin 2024, au 4, place Jussieu, salle 113 couloir 16-26, avec une session théorique le matin et des travaux pratiques l'après midi.
 
 
 | Horaire     | Sujet             | Salle     |
-|---------    |-------            |-------    |
+| ----------- | ----------------- | --------- |
 | 9:00-12:00  | Théorie           | 16-26 113 |
-| 12:00-13:30 | Pause déjeuner    | 16-26 113 |
+| 12:00-13:30 | Pause déjeuner    | --------- |
 | 13:30-17:30 | Travaux Pratiques | 16-26 113 |
 
 
@@ -23,11 +23,11 @@ Les cours se dérouleront de 9h00 à 17h30 du mercredi 19 au vendredi 21 juin 20
 
 Il est demandé aux participants d'être équipés d'un ordinateur portable et il est fortement recommandé d'installer en avance les logiciels et outils nécessaires à la formation.
 
-Les paquets Python nécessaires à la formation sont listés dans le fichier `requirements.txt`. Pour les installer depuis un terminal, il suffit de taper la commande :
+Les paquets Python nécessaires à la formation sont listés dans le fichier `requirements.txt`. Pour les installer depuis la console, il suffit de taper la commande :
 
 > pip install -r requirements.txt
 
-Le support des travaux pratiques seront des notebook Python. Pour vérifier que les dépendances ont été correctement installées, lancer un jupyter lab depuis le répertoire TPs en tapant la commande
+Les travaux pratiques se feront sur des notebook Python. Pour vérifier que les dépendances ont été correctement installées, lancer un `jupyterlab` depuis le répertoire TPs en tapant la commande
 
 > jupyter lab
 
