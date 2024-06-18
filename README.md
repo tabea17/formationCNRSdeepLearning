@@ -41,3 +41,11 @@ Les travaux pratiques se feront sur des notebook Python. Pour vérifier que les 
 > jupyter lab
 
 et exécuter le notebook `test.ipynb`.
+
+## Matériel
+
+Les transparents des cours du matin se trouvent dans le répertoire `Cours`.
+
+Les notebook pour les travaux pratiques se trouvent dans le répertoire `TPs`.
+
+Les fichiers de données du 2ème jour sont à télécharger [ici](https://plmbox.math.cnrs.fr/d/b4c37f98e9724238940b/). 
