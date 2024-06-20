@@ -48,4 +48,4 @@ Les transparents des cours du matin se trouvent dans le répertoire `Cours`.
 
 Les notebook pour les travaux pratiques se trouvent dans le répertoire `TPs`.
 
-Les fichiers de données du 2ème jour sont à télécharger [ici](https://plmbox.math.cnrs.fr/d/b4c37f98e9724238940b/). 
+Les fichiers de données du 2ème jour sont à télécharger [ici](https://plmbox.math.cnrs.fr/d/b4c37f98e9724238940b/) et à copier dans le répertoire `TPs/data`. 
