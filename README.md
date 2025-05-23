@@ -10,7 +10,7 @@ Cette [formation](https://cnrsformation.cnrs.fr/introduction-machine-learning-de
 
 Les cours se dérouleront 
 
-- de **9h00 à 17h30** du mercredi 19 au vendredi 21 juin 2024
+- de **9h00 à 17h30** du mercredi 11 au vendredi 13 juin 2025
 - en **salle 113, couloir 16-26**, au 4, place Jussieu, 75005
 - avec une session théorique le matin et des travaux pratiques l'après midi.
 
