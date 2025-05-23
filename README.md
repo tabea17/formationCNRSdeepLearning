@@ -32,6 +32,11 @@ Les objectifs de la formation sont
 
 Il est demandé aux participants d'être équipés d'un ordinateur portable et il est fortement recommandé d'installer en avance les logiciels et outils nécessaires à la formation.
 
+L'idéal est de créer un environemment virtuel, pour éviter tout conflit avec d'autres installations de paquets.
+
+> python3 -m venv .venv
+> source .venv/bin/activate 
+
 Les paquets Python nécessaires à la formation sont listés dans le fichier `requirements.txt`. Pour les installer depuis la console, il suffit de taper la commande :
 
 > pip install -r requirements.txt
