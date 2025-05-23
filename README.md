@@ -1,6 +1,6 @@
 # Formation CNRS - Introduction au machine learning et au deep learning avec Python
 
-## Description de la formation du 19 au 21 juin 2024
+## Description de la formation du 11 au 13 juin 2025
 
 Cette [formation](https://cnrsformation.cnrs.fr/introduction-machine-learning-deep-learning-avec-python?axe=160) sera encadrée par:
 
@@ -35,6 +35,7 @@ Il est demandé aux participants d'être équipés d'un ordinateur portable et i
 L'idéal est de créer un environemment virtuel, pour éviter tout conflit avec d'autres installations de paquets.
 
 > python3 -m venv .venv
+
 > source .venv/bin/activate 
 
 Les paquets Python nécessaires à la formation sont listés dans le fichier `requirements.txt`. Pour les installer depuis la console, il suffit de taper la commande :
