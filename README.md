@@ -17,9 +17,10 @@ Les cours se dérouleront
 
 | Horaire     | Sujet             | Salle     |
 | ----------- | ----------------- | --------- |
+| 8:30-9:00   | Accueil café      | 16-26 113 |
 | 9:00-12:00  | Théorie           | 16-26 113 |
-| 12:00-13:30 | Pause déjeuner    | --------- |
-| 13:30-17:30 | Travaux Pratiques | 16-26 113 |
+| 12:00-13:00 | Pause déjeuner    | --------- |
+| 13:00-17:00 | Pratique          | 16-26 113 |
 
 Les objectifs de la formation sont
 - Comprendre les concepts mathématiques des méthodes de l'apprentissage statistique supervisé (régression et classification)
@@ -32,7 +33,13 @@ Les objectifs de la formation sont
 
 Il est demandé aux participants d'être équipés d'un ordinateur portable et il est fortement recommandé d'installer en avance les logiciels et outils nécessaires à la formation.
 
-L'idéal est de créer un environemment virtuel, pour éviter tout conflit avec d'autres installations de paquets.
+Une version de python supérieure à 3.12 est requise, pour vérifier votre version : 
+
+> python3 --version
+
+L'idéal est de créer un environement virtuel, pour éviter tout conflit avec d'autres installations de paquets.
+
+> cd TPs
 
 > python3 -m venv .venv
 
@@ -54,4 +61,4 @@ Les transparents des cours du matin se trouvent dans le répertoire `Cours`.
 
 Les notebook pour les travaux pratiques se trouvent dans le répertoire `TPs`.
 
-Les fichiers de données du 2ème jour sont à télécharger [ici](https://plmbox.math.cnrs.fr/d/b4c37f98e9724238940b/) et à copier dans le répertoire `TPs/data`. 
+Les fichiers de données du 2ème jour sont à télécharger [ici](https://sdrive.cnrs.fr/s/qHM5HDAGr6w8J4n) et à copier dans le répertoire `TPs/data`. 
