@@ -33,7 +33,7 @@ Les objectifs de la formation sont
 
 Il est demandé aux participants d'être équipés d'un ordinateur portable et il est fortement recommandé d'installer en avance les logiciels et outils nécessaires à la formation.
 
-Une version de python supérieure à 3.12 est requise, pour vérifier votre version : 
+Une version de python supérieure à 3.13 est requise, pour vérifier votre version : 
 
 > python3 --version
 

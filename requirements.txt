@@ -10,3 +10,5 @@ torch
 torchinfo
 torchvision
 tqdm
+chronos-forecasting
+ipywidgets
