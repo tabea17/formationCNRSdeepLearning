@@ -12,3 +12,4 @@ torchvision
 tqdm
 chronos-forecasting
 ipywidgets
+shap
