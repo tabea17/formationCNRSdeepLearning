@@ -20,7 +20,7 @@ Les cours se dérouleront
 | 8:30-9:00   | Accueil café      | 16-26 113 |
 | 9:00-12:00  | Théorie           | 16-26 113 |
 | 12:00-13:00 | Pause déjeuner    | --------- |
-| 13:00-17:00 | Pratique          | 16-26 113 |
+| 13:00-17:30 | Pratique          | 16-26 113 |
 
 Les objectifs de la formation sont
 - Comprendre les concepts mathématiques des méthodes de l'apprentissage statistique supervisé (régression et classification)
@@ -42,6 +42,8 @@ L'idéal est de créer un environement virtuel, pour éviter tout conflit avec d
 > cd TPs
 
 > python3 -m venv .venv
+ou bien 
+> uv 
 
 > source .venv/bin/activate 
 
